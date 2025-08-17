@@ -1,0 +1,13 @@
+streamlit
+requests
+pydub
+python-dotenv
+scikit-learn
+numpy
+pandas
+tiktoken
+nltk
+# If you want to use Google APIs for calendar, uncomment next lines and set creds
+# google-api-python-client
+# google-auth
+# google-auth-oauthlib
